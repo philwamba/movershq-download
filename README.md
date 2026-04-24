@@ -4,8 +4,8 @@ Download the latest Movers HQ Android APK builds from this repository.
 
 ## Downloads
 
-- [Movers HQ Flutter debug APK](apks/movershq-flutter-debug.apk)
-- [Movers HQ Android debug APK](apks/movershq-android-debug.apk)
+- [Download Movers HQ Flutter debug APK](https://media.githubusercontent.com/media/philwamba/movershq-download/main/apks/movershq-flutter-debug.apk)
+- [Download Movers HQ Android debug APK](https://media.githubusercontent.com/media/philwamba/movershq-download/main/apks/movershq-android-debug.apk)
 
 ## Checksums
 
