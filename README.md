@@ -11,7 +11,7 @@ Download the latest Movers HQ Android APK builds from this repository.
 
 ```text
 510f12804d183bec87efd1b24033fc275104f1980dacf83cdd18ffc9038d18dd  apks/movershq-flutter-debug.apk
-788c181cd4f097f89327513835584f3ba620c2556ee7bd1870203db56bafab5b  apks/movershq-android-debug.apk
+20c8b4ef6fb45650bb3585f900d39dfbbe711419f49ab9f3f2405a2c2d97e8ff  apks/movershq-android-debug.apk
 ```
 
 ---
